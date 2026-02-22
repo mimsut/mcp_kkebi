@@ -1,4 +1,9 @@
-# My MCP App 🚀
+# MCP Kkebi 🚀
+
+![MCP](https://img.shields.io/badge/MCP-Compatible-blue?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/React-18.3-61DAFB?style=flat-square&logo=react)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 ChatGPT와 Claude에서 실행되는 인터랙티브 UI 애플리케이션을 구축하는 MCP 앱입니다.
 
