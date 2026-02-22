@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "my-mcp-app": {
+      "command": "node",
+      "args": ["dist/index.js"],
+      "env": {}
+    }
+  }
+}

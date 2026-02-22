@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "my-mcp-app": {
+      "command": "node",
+      "args": [
+        "/Users/user/Downloads/b_ru8Xi2QdWzH-1771717682115/my-mcp-app/dist/index.js"
+      ]
+    }
+  }
+}
