@@ -7,6 +7,33 @@
 
 ChatGPT와 Claude에서 실행되는 인터랙티브 UI 애플리케이션을 구축하는 MCP 앱입니다.
 
+> 🔗 **Repository**: [github.com/mimsut/mcp_kkebi](https://github.com/mimsut/mcp_kkebi)
+
+## ✨ 특징
+
+- 🎨 **인터랙티브 위젯**: React 기반의 아름다운 UI 컴포넌트
+- 🤖 **AI 통합**: ChatGPT와 Claude에서 바로 사용 가능
+- ⚡️ **빠른 개발**: TypeScript + Hot Reload
+- 📦 **쉬운 배포**: Manufact Cloud 지원
+- 🔧 **확장 가능**: 새로운 도구와 위젯 쉽게 추가
+
+## 🚀 빠른 시작
+
+```bash
+# Clone
+git clone https://github.com/mimsut/mcp_kkebi.git
+cd mcp_kkebi
+
+# 설치
+npm install
+
+# 개발 모드
+npm run dev
+
+# 빌드
+npm run build
+```
+
 ## 📦 프로젝트 구조
 
 ```

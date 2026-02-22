@@ -1,7 +1,17 @@
 {
-  "name": "my-mcp-app",
+  "name": "mcp-kkebi",
   "version": "1.0.0",
-  "description": "MCP App with interactive UI for ChatGPT & Claude",
+  "description": "MCP App with interactive UI widgets for ChatGPT & Claude",
+  "author": "mimsut",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mimsut/mcp_kkebi.git"
+  },
+  "homepage": "https://github.com/mimsut/mcp_kkebi#readme",
+  "bugs": {
+    "url": "https://github.com/mimsut/mcp_kkebi/issues"
+  },
   "type": "module",
   "main": "dist/index.js",
   "scripts": {
